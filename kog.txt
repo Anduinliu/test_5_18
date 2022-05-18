@@ -1,0 +1,10 @@
+file:D:\vis专属代码\test_4_24\test_5_18\test_5_18.c line:50 date:May 18 2022 time:14:30:25 i=0
+file:D:\vis专属代码\test_4_24\test_5_18\test_5_18.c line:50 date:May 18 2022 time:14:30:25 i=1
+file:D:\vis专属代码\test_4_24\test_5_18\test_5_18.c line:50 date:May 18 2022 time:14:30:25 i=2
+file:D:\vis专属代码\test_4_24\test_5_18\test_5_18.c line:50 date:May 18 2022 time:14:30:25 i=3
+file:D:\vis专属代码\test_4_24\test_5_18\test_5_18.c line:50 date:May 18 2022 time:14:30:25 i=4
+file:D:\vis专属代码\test_4_24\test_5_18\test_5_18.c line:50 date:May 18 2022 time:14:30:25 i=5
+file:D:\vis专属代码\test_4_24\test_5_18\test_5_18.c line:50 date:May 18 2022 time:14:30:25 i=6
+file:D:\vis专属代码\test_4_24\test_5_18\test_5_18.c line:50 date:May 18 2022 time:14:30:25 i=7
+file:D:\vis专属代码\test_4_24\test_5_18\test_5_18.c line:50 date:May 18 2022 time:14:30:25 i=8
+file:D:\vis专属代码\test_4_24\test_5_18\test_5_18.c line:50 date:May 18 2022 time:14:30:25 i=9
